@@ -1,0 +1,1 @@
+cd "c:\Users\mauli\OneDrive\Desktop\CS\JAVA\sem-4\" ; if ($?) { javac Q18.java } ; if ($?) { java Q18 }
